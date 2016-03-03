@@ -10,15 +10,12 @@
     Address:			Europalaan 193
     					5042 ZE Tilburg
 	Phone: 				0639434140
-	E-mail:				jordy_duits@live.nl	     
+	E-mail:				jordy_duits@live.nl	   
+	LinkedIn			https://nl.linkedin.com/in/jordy-duits-00827954    
 	Date of birth:		16-07-1991
-
-
-
-View here my [LinkedIn][] profile.
-[LinkedIn]: https://nl.linkedin.com/in/jordy-duits-00827954	
+ 
   
-  
+ 
 ### Profile
 People describe me best as being ambitious, studious and resolute. It is my ambition to attain a challenging economic job with a high level of self-responsibility within a dynamic organization. As I am eager to learn from new insights in my field, I prefer to work in an organization in which knowledge gathering is actively stimulated. I’m also open to doctorate at an university in a part-time program besides my job.
   
