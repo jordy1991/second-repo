@@ -1,4 +1,9 @@
 % Curriculum Vitae Jordy Duits
+
+**links to assignment2&presentation**:  
+assignment http://jordy1991.github.io/third-repo/assignment2.html  
+presentation http://jordy1991.github.io/third-repo/presentationassignment2.html 
+
   
   
 ![](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/000/272/3bf/1a3a26e.jpg)
